@@ -1,0 +1,8 @@
+   0.030: Collector_updateFwList: new oad file: ../../firmware/oad/sensor_oad_cc13x0lp_app.bin
+   0.030: Collector_updateFwList: Added ../../firmware/oad/sensor_oad_cc13x0lp_app.bin, ID 0
+   0.041: Found Mac Co-Processor Version info is:
+   0.041: Transport: 3
+   0.041:   Product: 1
+   0.041:     Major: 2
+   0.041:     Minor: 0
+   0.041:     Maint: 1
